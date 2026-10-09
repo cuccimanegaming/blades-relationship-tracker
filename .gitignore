@@ -1,5 +1,7 @@
 node_modules/
 dist/
+release/
+electron-runtime/
 *.tsbuildinfo
 .env
 .env.*
